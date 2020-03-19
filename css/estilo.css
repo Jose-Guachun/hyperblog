@@ -29,3 +29,8 @@ font-size: 0.8em;
     padding: 0.5em;
 
 }
+p{
+    font-family: 'Times New Roman';
+    color: darkgray;
+    font-size: 18px;
+}
