@@ -13,7 +13,7 @@ body{
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-#Container h1{
+#container h1{
     font-size: 20px;
 }
 #cabecera #tagline{
@@ -33,4 +33,9 @@ p{
     font-family: 'Times New Roman';
     color: darkgray;
     font-size: 18px;
+}
+#container h2{
+font-size: 15;
+color: tomato;
+font-family: Arial;
 }
