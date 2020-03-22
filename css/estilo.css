@@ -39,3 +39,10 @@ font-size: 15;
 color: tomato;
 font-family: Arial;
 }
+#footer{
+background: rgb(88, 88, 88);
+color:white;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
