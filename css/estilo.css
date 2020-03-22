@@ -49,3 +49,11 @@ font-family: Arial;
     background:white ;
     padding: 1em;
 }
+#footer{
+background: rgb(88, 88, 88);
+color:white;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+
+}
