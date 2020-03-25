@@ -11,5 +11,6 @@ Un blog increible  creado en el curso de Git_Github
 * Formas de desenvolverse en el mundo laboral
 * la forma echa de forma mas satisfacotrtia 
 * incluye ejemplos
+* prueba numero 3 de cherry-pick
 
 Recordatorio **Este readme es de prueba** [**ver imagen chida**](https://imgur.com/hIaGPg0)
