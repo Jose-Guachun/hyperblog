@@ -13,4 +13,5 @@ Un blog increible  creado en el curso de Git_Github
 * incluye ejemplos
 * prueba numero 3 de cherry-pick
 * prueba 4 de cherry
+* esta linea es otra cosa
 Recordatorio **Este readme es de prueba** [**ver imagen chida**](https://imgur.com/hIaGPg0)
