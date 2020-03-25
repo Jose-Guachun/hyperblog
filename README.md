@@ -11,6 +11,7 @@ Un blog increible  creado en el curso de Git_Github
 * Formas de desenvolverse en el mundo laboral
 * la forma echa de forma mas satisfacotrtia 
 * incluye ejemplos
+* tambien funciona con linux y mac
 
 
 Recordatorio **Este readme es de prueba** [**ver imagen chida**](https://imgur.com/hIaGPg0)
